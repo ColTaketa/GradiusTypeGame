@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spawn
+  - CartuchoE
+  - Bullet
+  - Edge
+  - EnemyList
+  - BossBullet
+  - PowerUpDefensa
+  - BossBeam
+  - GameCanvas
+  - Boss
+  - HealthT
+  - lifeT
+  - PointsT
+  - Lose
+  - Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bullets
+  - Water
+  - UI
+  - EmemyBullets
+  - Enemys
+  - Player
+  - LevelEdges
+  - PowerUpLayer
+  - BossBeam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1557259369
+    locked: 0
+  - name: Objetos
+    uniqueID: 2822289087
+    locked: 0
+  - name: Enemies
+    uniqueID: 367100157
+    locked: 0
+  - name: Player
+    uniqueID: 309622167
+    locked: 0
